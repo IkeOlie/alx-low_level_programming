@@ -1,11 +1,11 @@
 #include <unistd.h>
 /**
- * main - prints "and that piece of art is usful" - Dora Korper, 2015-10-19",
+ * main - prints "and that piece of art is usful" - Dora Korpar, 2015-10-19",
  * preceeded by a newline, to standard error.
  * Return: always 1.
  */
 int main(void)
 {
-	write(2, and that piece of art is useful\" - Dora Korper, 2015-10-19\n", 59);
-	return (1)
+	write(2, and that piece of art is useful\" - Dora Korarr, 2015-10-19\n", 59);
+	return (1);
 }

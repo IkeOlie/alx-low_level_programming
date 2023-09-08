@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <unistd.h>
 /**
  * main - prints "and that piece of art is usful" - Dora Korpar, 2015-10-19",
  * preceeded by a newline, to standard error.

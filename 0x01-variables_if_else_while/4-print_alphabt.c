@@ -5,6 +5,7 @@
 /**
  * main - prints lowercase alphabets
  * Rerurn: always 0(success)
+ *
  */
 
 int main(void)

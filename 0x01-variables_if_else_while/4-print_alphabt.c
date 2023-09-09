@@ -3,8 +3,8 @@
 #include <time.h>
 
 /**
- * main - Entry points
- * Rerurn: always 0 (success)
+ * main - prints lowercase alphabets
+ * Return: always 0 (success)
  */
 
 int main(void)

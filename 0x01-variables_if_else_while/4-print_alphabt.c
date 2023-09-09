@@ -4,7 +4,7 @@
 
 /**
  * main - Entry points
- * Rerurn: always 0(success)
+ * Rerurn: always 0 (success)
  */
 
 int main(void)

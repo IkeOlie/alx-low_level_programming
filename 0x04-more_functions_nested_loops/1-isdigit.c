@@ -5,6 +5,7 @@
  * Return: 1 for character thats digit else return 0
  */
 int _isdigit(int c)
+
 {
 
 	if (c >= 48 && c <= 57)

@@ -3,7 +3,7 @@
 #include <time.h>
 /**
  * main - generates random valid password
- * program 101 crakme
+ * program 101 crackme
  * Return: 0
  *
  */
@@ -38,7 +38,7 @@ int main(void)
 				break;
 			}
 		}
-		for (index = 0; passwor[index]; index++)
+		for (index = 0; password[index]; index++)
 		{
 			if (password[index] >= (33 + diff_half2))
 			{

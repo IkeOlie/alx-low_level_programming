@@ -1,7 +1,5 @@
 #include <stdio.h>
-/**
- * main - check code
- */
+/* main - checks code */
 int main(void)
 {
 	int n;

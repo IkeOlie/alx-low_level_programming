@@ -3,7 +3,7 @@
  * _strncpy - copies at most an inputted number
  * @dest: string destination
  * @src: source string
- * @n maximum number of bytes
+ * @n: maximum number of bytes
  * Return: dest
  */
 char *_strncpy(char *dest, char *src, int n)

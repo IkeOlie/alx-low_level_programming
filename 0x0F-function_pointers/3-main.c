@@ -20,7 +20,7 @@ int main(int argc, char *argv[])
 	oprt = get_op_func(argv[2]);
 	if (!oprt)
 	{
-		printf("Erro\n");
+		printf("Error\n");
 		exit(99);
 	}
 	printf("%d\n", oprt(atoi(argv[1]), atoi(argv[3])));
